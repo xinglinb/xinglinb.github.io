@@ -1,1 +1,3 @@
-index.js
+window.onload=function(){
+    
+}
